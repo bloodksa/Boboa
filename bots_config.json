@@ -1,0 +1,10 @@
+{
+    "bots": [
+        {
+            "name": "ExampleBot",
+            "description": "This is an example bot.",
+            "entry_point": "plugins/example_bot/main.py",
+            "github_repo": "https://github.com/example/example_bot"
+        }
+    ]
+}
